@@ -3,6 +3,10 @@
 <h1 align="center">Hi, I'm Dawid</h1>
 <h3 align="center">A passionate computer science student</h3>
 
+- 🔭 I’m currently working on [A python course](https://www.udemy.com/course/100-days-of-code/)
+
+- 🎓 Currently Studying at [Mayooth University](https://www.maynoothuniversity.ie/)
+
 <h3>Notable Repositories:</h3>
 <p align="left"> <a href="https://github.com/DawidStal/snake_game">Snake Game</a></p>
 <p align="left"> <a href="https://github.com/DawidStal/Tenant-Landlord">Full Stack Application for recording Tenant-Landlord relationships</a></p>
