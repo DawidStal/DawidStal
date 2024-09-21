@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Dawid</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on [A python course](https://www.udemy.com/course/100-days-of-code/)
+- 🔭 I’m currently working on a [Python Course](https://www.udemy.com/course/100-days-of-code/)
 
 - 🎓 Currently Studying at [Mayooth University](https://www.maynoothuniversity.ie/)
 
