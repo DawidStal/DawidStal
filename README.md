@@ -8,8 +8,8 @@
 - 🎓 Currently Studying at [Mayooth University](https://www.maynoothuniversity.ie/)
 
 <h3>Notable Repositories:</h3>
-<p align="left"> <a href="https://github.com/DawidStal/quiz_game">Quiz Game</a></p>
 <p align="left"> <a href="https://github.com/DawidStal/stock-news">Stock News Alert</a></p>
+<p align="left"> <a href="https://github.com/DawidStal/quiz_game">Quiz Game</a></p>
 <p align="left"> <a href="https://github.com/DawidStal/Tenant-Landlord">Full Stack Application for recording Tenant-Landlord relationships</a></p>
 <p align="left"> <a href="https://github.com/DawidStal/Maze-Solver">Maze solver program using depth first search algorithm</a></p>
 
